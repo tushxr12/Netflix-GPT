@@ -8,7 +8,6 @@ const Login = () => {
     setIseSignInForm(!isSignInForm);
   };
 
-  console.log("Is this a sign In form : ", isSignInForm);
 
   return (
     <div>
