@@ -23,3 +23,16 @@ yarn-debug.log*
 yarn-error.log*
 
 /myNotes.txt
+
+# Firebase local cache and generated files
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+firestore-debug.log
+ui-debug.log
+.runtimeconfig.json
+
+# AI Agent skills (locally installed)
+.agents/skills/
+.claude/skills/
+skills-lock.json
